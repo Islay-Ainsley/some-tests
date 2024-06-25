@@ -1,4 +1,4 @@
-/*eslint @stylistic/js/dot-location: ["error", "object"]*/
+/*eslint @stylistic/js/dot-location: ["error", "property"]*/
 
-var foo = object
-.property;
+var foo = object.
+property;
